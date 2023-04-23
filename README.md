@@ -1,6 +1,5 @@
-## Chateo - Complete React Native Chat App UI
-Chateo is a cross-platform chat application UI built using React Native.It is designed to provide a seamless chat experience with an intuitive and user-friendly interface.
-
+## Complete React Native Chat App with Nguyen Trong Kien & Dinh Cao Thang & Dinh Cao Duy
+\đề án cuối kì được thực hiện bởi team 
 ## Demo
 
 ![Image chateo 1](https://i.ibb.co/7GDb1JW/chateo.png)
@@ -14,7 +13,7 @@ Chateo is a cross-platform chat application UI built using React Native.It is de
 - Expo: An open-source platform for building React Native applications, providing tools and services to streamline the development process.
 
 ## Getting Started
-To run Chateo on your local machine, follow these steps:
+To run App on your local machine, follow these steps:
 
 Clone the repository from GitHub: 
 

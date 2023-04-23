@@ -19,13 +19,13 @@ To run Chateo on your local machine, follow these steps:
 Clone the repository from GitHub: 
 
 ```
-git clone https://github.com/Thomas-Max99/Chateo.git
+git clone https://github.com/x140hu/App-Chat-React-Native.git
 ```
 
 Navigate to the project directory: 
 
 ```
-cd chateo
+cd App
 ```
 
 Install dependencies: 
@@ -57,4 +57,4 @@ We welcome contributions to Chateo! If you'd like to contribute, please follow t
 Chateo is open-source software licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
 
 ## Contact
-If you have any questions or feedback about Chateo, please feel free to contact us at devland.contact@gmail.com. We appreciate your input and would be happy to assist you with any concerns or inquiries.
+If you have any questions or feedback about Chateo, please feel free to contact us at kin.havent.e@gmail.com. We appreciate your input and would be happy to assist you with any concerns or inquiries.

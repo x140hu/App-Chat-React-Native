@@ -1,0 +1,28 @@
+{
+    "expo": {
+        "name": "Nguyen Trong Kien & Dinh Cao Duy & Dinh Cao Thang",
+        "slug": "Nguyen Trong Kien & Dinh Cao Duy & Dinh Cao Thang",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/images/icon.png",
+        "userInterfaceStyle": "light",
+        "splash": {
+            "image": "./assets/images/splash.png",
+            "resizeMode": "cover",
+            "backgroundColor": "#002DE3"
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/images/icon.png",
+                "backgroundColor": "#ffffff"
+            }
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        }
+    }
+}
